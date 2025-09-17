@@ -1,0 +1,3 @@
+pnpm install -g pake-cli
+
+pake https://idiom.982000.xyz/ --name "idiom99"
